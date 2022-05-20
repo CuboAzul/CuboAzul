@@ -1,4 +1,4 @@
-# Hello, and again, welcome to the Aperture Science Enrichment Center.
+# Hello and, again, welcome to the Aperture Science Computer-Aided Enrichment Center.
 
 Hi, I'm a Blue Cube
 
